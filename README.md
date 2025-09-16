@@ -289,9 +289,13 @@ To use the published one
 
 ## Quickstart
 
+<!-- Uncomment after smithery fix
 ### Install
 
 #### Option 1: Installing manually via claude_desktop_config.json config file
+-->
+
+### Installing manually via claude_desktop_config.json config file
 
 - On MacOS: `open ~/Library/Application\ Support/Claude/claude_desktop_config.json`
 - On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
@@ -332,6 +336,7 @@ b) Published Servers Configuration - Consumers should use this config
 }
 ```
 
+<!-- Uncomment after smithery cli fix
 #### Option 2: To install Published Servers Configuration automatically via Smithery
 
 Run the following bash command to install **published** [mcp-pandoc pypi](https://pypi.org/project/mcp-pandoc) for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-pandoc):
@@ -339,6 +344,7 @@ Run the following bash command to install **published** [mcp-pandoc pypi](https:
 ```bash
 npx -y @smithery/cli install mcp-pandoc --client claude
 ```
+-->
 
 - If you face any issue, use the "Published Servers Configuration" above directly instead of this cli.
 
