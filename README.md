@@ -1,6 +1,5 @@
 [![Downloads](https://img.shields.io/pypi/dm/mcp-pandoc.svg)](https://pypi.python.org/pypi/mcp-pandoc)
 [![CI](https://github.com/vivekVells/mcp-pandoc/actions/workflows/ci.yml/badge.svg)](https://github.com/vivekVells/mcp-pandoc/actions/workflows/ci.yml)
-<a href="https://smithery.ai/server/mcp-pandoc"><img alt="Smithery Badge" src="https://smithery.ai/badge/mcp-pandoc"></a> 
 <br />
 
 ![image](https://github.com/user-attachments/assets/10f18317-58e7-430e-9aec-b706b60fe2c6)
