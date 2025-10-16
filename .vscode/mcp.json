@@ -1,0 +1,17 @@
+{
+    "servers":
+    {
+        "mcp-pandoc-exe": {
+            "command": "d:\\mcp-test\\mcp-pandoc\\dist\\mcp-pandoc.exe",
+            "args": []
+        },
+        "mcp-pandoc-msix": {
+            "command": "mcp-pandoc.exe",
+            "args": []
+        },
+        "mcp-pandoc-python": {
+            "command": "D:/mcp-test/mcp-pandoc/.venv/Scripts/python.exe",
+            "args": ["-m", "mcp_pandoc"]
+        }
+    }
+}
